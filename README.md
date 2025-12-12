@@ -1,4 +1,4 @@
-# Projeto Interdisciplinar - Sistema de Agendamento de Aulas
+# Projeto Interdisciplinar - Sistema de Agendamento de Aulas - SALA
 
 📌 Sobre o Projeto
 
